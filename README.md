@@ -47,6 +47,7 @@ npm install
 ```bash
 npm install -g nodemon
 ```
+5. Follow the steps in the .env.example file before proceeding.
 
 ## Usage
 1. Start the MongoDB server:

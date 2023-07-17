@@ -4,6 +4,8 @@ The application allows users to register, login, and authenticate either by conn
 The primary technologies utilized in this project include Passport for authentication.
 It was created as part of the "Complete 2023 Web Development Bootcamp" by Angela Yu.
 
+<img src="https://drive.google.com/uc?export=view&id=1OhzmiHvgR3tB1UPB-93vgZOijfllxHuq"> 
+
 ## Features
 - User Registration: Users can create new accounts by providing their desired username, email, and password.
 - User Login: Registered users can log in using their credentials to access the application.
